@@ -133,7 +133,7 @@ Thành quả:
 ![VD2 - TH1](http://i.imgur.com/sYOFJIw.png)
 
 
-## TH2 - Nhiều đoạn code dính liều nhau
+## TH2 - Nhiều đoạn code dính liền nhau
 
 Nhiều đoạn code dính liền nhau, thường gây ra sẽ định dạng lại thành 1 đoạn code duy nhất. Để sửa lỗi này, bạn chỉ cần chèn vào dòng enter hoặc tốt nhất là một dòng mô tả thêm file/ tên đoạn code là sẽ giải quyết được :) VD:
 
@@ -166,7 +166,7 @@ Bạn không cần phải là một chuyên gia để trả lời các câu hỏ
 
 - Nên dùng Tiếng Anh và Tiếng Việt vì phần lớn thành viên DNH rành 2 ngôn ngữ này.
 - Viết Tiếng Việt CÓ DẤU, không dùng ngôn ngữ teen hay các ký hiệu không phổ biến, khó hiểu.
-- Luôn lịch sự, không đả kích người khác, không đứng ngoài khiêu khích người khác gây gõ. (Xem thêm guideline ở trên có đề cập)
+- Luôn lịch sự, không đả kích người khác, không đứng ngoài khiêu khích người khác gây gổ. (Xem thêm guideline ở trên có đề cập)
 - Đọc kỹ câu hỏi trước khi trả lời. Có thể hỏi lại chủ topic nếu chưa hiểu kỹ câu hỏi.
 - Nếu trả lời bằng code, đảm bảo code có thể chạy được. Và nên comment rõ ràng, chú thích code để tăng tính dễ hiểu
 - Cố gắng **hướng dẫn người hỏi giải quyết vấn đề** hơn là **cung cấp lời giải** cho câu hỏi được hỏi một cách trực tiếp. Đặc biệt là các câu hỏi đơn giản, hoặc nhờ giải giùm bài tập, liên quan tới bài tập.
